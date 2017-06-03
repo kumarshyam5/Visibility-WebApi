@@ -1,0 +1,10 @@
+C:\Users\shreyu\documents\visual studio 2015\Projects\Infinity.Visibilty.WebAPI\Infinity.Visibilty.DataAccess\bin\Release\Infinity.Visibilty.DataAccess.dll.config
+C:\Users\shreyu\documents\visual studio 2015\Projects\Infinity.Visibilty.WebAPI\Infinity.Visibilty.DataAccess\bin\Release\Infinity.Visibilty.DataAccess.dll
+C:\Users\shreyu\documents\visual studio 2015\Projects\Infinity.Visibilty.WebAPI\Infinity.Visibilty.DataAccess\bin\Release\Infinity.Visibilty.DataAccess.pdb
+C:\Users\shreyu\documents\visual studio 2015\Projects\Infinity.Visibilty.WebAPI\Infinity.Visibilty.DataAccess\bin\Release\EntityFramework.dll
+C:\Users\shreyu\documents\visual studio 2015\Projects\Infinity.Visibilty.WebAPI\Infinity.Visibilty.DataAccess\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\shreyu\documents\visual studio 2015\Projects\Infinity.Visibilty.WebAPI\Infinity.Visibilty.DataAccess\bin\Release\EntityFramework.xml
+C:\Users\shreyu\documents\visual studio 2015\Projects\Infinity.Visibilty.WebAPI\Infinity.Visibilty.DataAccess\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\shreyu\documents\visual studio 2015\Projects\Infinity.Visibilty.WebAPI\Infinity.Visibilty.DataAccess\obj\Release\Infinity.Visibilty.DataAccess.csprojResolveAssemblyReference.cache
+C:\Users\shreyu\documents\visual studio 2015\Projects\Infinity.Visibilty.WebAPI\Infinity.Visibilty.DataAccess\obj\Release\Infinity.Visibilty.DataAccess.dll
+C:\Users\shreyu\documents\visual studio 2015\Projects\Infinity.Visibilty.WebAPI\Infinity.Visibilty.DataAccess\obj\Release\Infinity.Visibilty.DataAccess.pdb
